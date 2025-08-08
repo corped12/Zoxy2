@@ -1,7 +1,7 @@
 {
-	"name": "Ultraviolet App",
-	"description": "Node.js Ultraviolet instance",
-	"repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
+	"name": "Zoxy",
+	"description": "Node.js Zoxy instance",
+	"repository": "https://github.com/corped12/Zoxy2",
 	"logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
 	"keywords": ["tomp", "ultraviolet"]
 }
